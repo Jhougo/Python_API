@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: YDbf
+Version: 0.3rc1
+Summary: Pythonic reader and writer for DBF/XBase files
+Home-page: http://www.pyobject.ru/projects/YDbf
+Author: Yury Yurevich
+Author-email: the.pythy@gmail.com
+License: GNU GPL2
+Description: YDbf is a library for reading/writing DBF files
+        (also known as XBase) in pythonic way. It 
+        represents DBF file as data iterator, where
+        each record is a simple dict.
+        .
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
